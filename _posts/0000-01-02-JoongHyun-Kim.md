@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+#7 Respond to a PR review!
 Use the left arrow to go back!
